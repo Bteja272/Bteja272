@@ -90,9 +90,12 @@ I build production-grade distributed systems and AI engineering platforms — no
 
 <div align="center">
 
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bteja272&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=9CA3AF&cache_seconds=1800)
+## By The Numbers
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bteja272&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=9CA3AF&langs_count=8&cache_seconds=1800)
+- **21ms** — Redis-cached API latency on F1 telemetry platform
+- **38ms** — pgvector retrieval latency on Agentic RAG system  
+- **95%+** — Task success rate on distributed workflow engine
+- **5** — Production projects with real deployments
 
 </div>
 
