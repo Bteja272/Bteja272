@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhanutejakanaparthi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanutejakanaparthi)
 [![Email](https://img.shields.io/badge/Email-bhanuteja272@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bhanuteja272@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bhanuteja.dev-10B981?style=flat)](https://bhanuteja.dev)
 
 </div>
 
