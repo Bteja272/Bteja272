@@ -90,9 +90,9 @@ I build production-grade distributed systems and AI engineering platforms — no
 
 <div align="center">
 
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bteja272&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=9CA3AF)
+![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bteja272&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=9CA3AF&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bteja272&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=9CA3AF&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bteja272&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=9CA3AF&langs_count=8&cache_seconds=1800)
 
 </div>
 
