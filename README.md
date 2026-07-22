@@ -32,7 +32,7 @@ I build production-grade distributed systems and AI engineering platforms — no
 | [🏎️ F1 Real-Time Telemetry](https://github.com/Bteja272/f1_telemetry_platform) | Live F1 data through Kafka → TimescaleDB → Redis → WebSockets → React. Deployed on AWS EC2. **21ms cached latency.** | Kafka · FastAPI · TimescaleDB · Redis · AWS |
 | [🌆 REMNANT](https://github.com/Bteja272/remnant) | Event-driven game-state engine. Player choices flow through Kafka → **C++ consequence engine** → PostgreSQL → Redis → live dashboard. | C++ · TypeScript · Kafka · Prometheus · Grafana |
 | [🩺 MIRA](https://github.com/Bteja272/MIRA) | Medical document intelligence. Deterministic safety guardrails block diagnosis/emergency queries **before any LLM call**. | LangGraph · pgvector · FastAPI · Ollama |
-| [🔍 Agentic RAG](https://github.com/Bteja272/rag-ai-system) | LangGraph agent routing across pgvector retrieval, direct LLM, and Tavily web search. **38ms retrieval latency.** | LangGraph · LangChain · pgvector · Ollama |
+| [🔍 Agentic RAG](https://github.com/Bteja272/RAG) | LangGraph agent routing across pgvector retrieval, direct LLM, and Tavily web search. **38ms retrieval latency.** | LangGraph · LangChain · pgvector · Ollama |
 | [⚙️ Workflow Engine](https://github.com/Bteja272/distributed_workflow_platform) | Fault-tolerant async task engine with retry logic, dead-letter isolation. **95%+ task success rate.** | FastAPI · Celery · Redis · PostgreSQL |
 
 ---
